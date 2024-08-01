@@ -43,5 +43,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lotfi-66&show_icons=true&locale=en&layout=compact" alt="lotfi-66" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lotfi-66&show_icons=true&locale=en" alt="lotfi-66" /></p>
+
 
