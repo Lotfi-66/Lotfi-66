@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lotfi</h1>
 <h3 align="center">A passionate FullStack from France</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lotfi-66&label=Profile%20views&color=0e75b6&style=flat" alt="lotfi-66" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lotfi-66&label=Profile%20views&color=0e75b6&style=flat" alt="lotfi-66"/> </p>
 
 
-
+<p align="center">
 - 🔭 I’m currently working on **Symphony**
 
 - 🌱 I’m currently learning **Frameworks**
@@ -14,7 +14,7 @@
 - 📫 How to reach me **lotfi.djeg@gmail.com**
 
 - My PortFolio : **https://lotfi-66.github.io/react-github-pages**
-
+</p>
 
 <h3 align="center">Languages and Tools :</h3>
 <p align="center"> 
