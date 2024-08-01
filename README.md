@@ -42,7 +42,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
 </p>
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?Lotfi-66={username}&theme={2077}
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?lotfi-66={username}&theme={2077}
 
 
 
