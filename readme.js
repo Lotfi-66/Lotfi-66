@@ -48,9 +48,13 @@ module.exports = `<h1 align="center">Hi 👋, I'm Lotfi</h1>
 
 <p align="center">
 Last update on <#today_date>
+</p>
 
+<p align="center">
 <#day_before_new_years> days before new years
+</p>
 
+<p align="center">
 <#gabot_signing>
 </p>
 `;
