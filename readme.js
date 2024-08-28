@@ -1,60 +1,50 @@
-module.exports = `### Hi there 👋
+module.exports = `<h1 align="center">Hi 👋, I'm Lotfi</h1>
+<h3 align="center">A passionate FullStack from France</h3>
 
-I create application on the web and share my journey on [Twitter](https://mlv.sh/twitter) and [Youtube](https://mlv.sh/youtube) !
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lotfi-66&label=Profile%20views&color=0e75b6&style=flat" alt="lotfi-66"/> </p>
 
-And... I create online courses in french to help developers to master modern web technologies.
 
-### Contact me
 
-* [Twitter](https://mlv.sh/twitter)
-* [Youtube](https://mlv.sh/youtube)
-* [Mail](mailto:contact@melvynx.com)
-* [Linkedin](https://mlv.sh/linkedin)
-* [Thread](https://mlv.sh/thread)
+- 🔭 I’m currently working on **Symphony**
 
-### My projects
+- 🌱 I’m currently learning **Frameworks**
 
-* [Melvynx](https://mlv.sh)
+- 👯 I’m looking to collaborate on **Symphony**
 
-My personal website, where you can find my projects, my blog and my resume.
+- 📫 How to reach me **lotfi.djeg@gmail.com**
 
-* [Codelynx](https://mlv.sh/codelynx)
+- My PortFolio[Demo]: **https://lotfi-66.github.io/react-github-pages/**
 
-My blog and my newsletter website.
 
-* [Codeline](https://mlv.sh/codeline)
-
-My online courses plateforme. I created BeginReact, NextReact and BeginJavaScript.
-
-* [Chat2Code](https://mlv.sh/chat2code)
-
-A ChatGPT like application that create and generate component directly in the browser. Stop wasting time copy pasting code from ChatGPT to your editor, Chat2Code bring editor in the chat.
-
-* [QuizUp](https://mlv.sh/quizup)
-
-Create a quiz with multiple choice and open questions with input. The next generation of quiz.
-
-* [BulkCorrector](https://mlv.sh/bulkcorrector)
-
-Correct the grammar of an entire book in 5 minutes.
-
-* [LinkedLeads](https://mlv.sh/linkedleads)
-
-Accept all your invitations on LinkedIn.
-
-* [PowerPost](https://mlv.sh/powerpost)
-
-Start reading posts FASTER.
-
-* [PowerNote](https://mlv.sh/powernote)
-
-Create a daily note without any friction.
-
-### Visitor count
-
-<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
-
-Added the \`Mon 3 Jan 2022\`
+<h3 align="center">Languages and Tools</h3>
+<p align="center"> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"height="40"/></a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+<a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a> 
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
+</p>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/lotfi-djeghbala-63160a266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lotfi djeghbala" height="30" width="40" /></a>
+</p>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lotfi-66&theme=2077"></img>
+</p>
 
 Last update on <#today_date>
 
