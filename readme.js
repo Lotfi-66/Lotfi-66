@@ -46,9 +46,11 @@ module.exports = `<h1 align="center">Hi 👋, I'm Lotfi</h1>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lotfi-66&theme=2077"></img>
 </p>
 
+<p align="center">
 Last update on <#today_date>
 
 <#day_before_new_years> days before new years
 
 <#gabot_signing>
+</p>
 `;

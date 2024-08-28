@@ -46,12 +46,12 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lotfi-66&theme=2077"></img>
 </p>
 
-
+<p align="center">
 Last update on Wed Aug 28 2024
 
 **126 day before 2025 ⏱** days before new years
 
 🤖 This README.md is updated with wickedness, by Lotbot ❤️
-
+</p>
 
 
