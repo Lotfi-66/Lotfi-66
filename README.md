@@ -47,11 +47,11 @@
 </p>
 
 <p align="center">
-Last update on Wed Aug 28 2024
+Last update on Wed Aug 31 2024
 </p>
 
 <p align="center">
-**126 day before 2025 ⏱** days before new years
+**123 day before 2025 ⏱** days before new years
 </p>
 
 <p align="center">
