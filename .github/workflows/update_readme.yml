@@ -12,12 +12,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Use Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
-      - name: Update README.md file
+          node-version: '20'
+      - name: Update README.md
         run: |
           node index.js > README.md
+          if [ ! -s README.md ]; then
+            echo "Error: README.md is empty after update"
+            exit 1
+          fi
         env:
           CI: true
       - name: Commit changes
@@ -28,4 +32,4 @@ jobs:
           message: ':memo: README.md updated by Lotbot'
           add: 'README.md'
         env:
-          GITHUB_TOKEN: ${{ secrets.LOTBOTREADMEUPDATER}}
+          GITHUB_TOKEN: ${{ secrets.LOTBOTREADMEUPDATER }}
