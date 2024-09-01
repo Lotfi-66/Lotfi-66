@@ -55,6 +55,6 @@ Last update on <#today_date>
 </p>
 
 <p align="center">
-<#gabot_signing>
+<#Lotbot_signing>
 </p>
 `;
