@@ -28,4 +28,4 @@ jobs:
           message: ':memo: README.md updated by Lotbot'
           add: 'README.md'
         env:
-          GITHUB_TOKEN: ${{ secrets.LotbotREADMEUpdater}}
+          GITHUB_TOKEN: ${{ secrets.LOTBOTREADMEUPDATER}}
