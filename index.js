@@ -1,17 +1,19 @@
 const { promises: fs } = require('fs');
-const readme = require('./readme');
+const path = require('path');
 
 const msInOneDay = 1000 * 60 * 60 * 24;
 
 const today = new Date();
 
-function generateNewREADME() {
-  const readmeRow = readme.split('\n');
+async function generateNewREADME() {
+  const readmePath = path.join(__dirname, 'README.md');
+  const readmeContent = await fs.readFile(readmePath, 'utf-8');
+  const readmeRows = readmeContent.split('\n');
 
   function updateIdentifier(identifier, replaceText) {
-    const identifierIndex = findIdentifierIndex(readmeRow, identifier);
-    if (!readmeRow[identifierIndex]) return;
-    readmeRow[identifierIndex] = readmeRow[identifierIndex].replace(
+    const identifierIndex = findIdentifierIndex(readmeRows, identifier);
+    if (identifierIndex === -1) return;
+    readmeRows[identifierIndex] = readmeRows[identifierIndex].replace(
       `<#${identifier}>`,
       replaceText
     );
@@ -20,28 +22,29 @@ function generateNewREADME() {
   const identifierToUpdate = {
     day_before_new_years: getDBNWSentence(),
     today_date: getTodayDate(),
-    gabot_signing: getGabotSigning(),
+    Lotbot_signing: getLotbotSigning(),
+    myself: getMySelf(),
   };
 
   Object.entries(identifierToUpdate).forEach(([key, value]) => {
     updateIdentifier(key, value);
   });
 
-  return readmeRow.join('\n');
+  return readmeRows.join('\n');
 }
 
 const moodByDay = {
+  0: 'love',
   1: 'hate',
   2: 'wickedness',
   3: 'pleasure',
   4: 'wickedness',
   5: 'cruelty',
   6: 'horror',
-  7: 'love',
 };
 
-function getGabotSigning() {
-  const mood = moodByDay[today.getDay() + 1];
+function getLotbotSigning() {
+  const mood = moodByDay[today.getDay()];
   return `🤖 This README.md is updated with ${mood}, by Lotbot ❤️`;
 }
 
@@ -50,32 +53,35 @@ function getTodayDate() {
 }
 
 function getMySelf() {
-  // test if we are in a PAIR DAY
   return today.getDate() % 2 === 0
-    ? Math.floor(Math.random() * 2)
-      ? 'penguin 🐧'
-      : 'bear 🐻'
+    ? Math.random() < 0.5 ? 'penguin 🐧' : 'bear 🐻'
     : 'penguin bear 🐧🐻';
 }
 
 function getDBNWSentence() {
   const nextYear = today.getFullYear() + 1;
-  const nextYearDate = new Date(String(nextYear));
+  const nextYearDate = new Date(nextYear, 0, 1);
 
   const timeUntilNewYear = nextYearDate.getTime() - today.getTime();
-  const dayUntilNewYear = Math.round(timeUntilNewYear / msInOneDay);
+  const dayUntilNewYear = Math.ceil(timeUntilNewYear / msInOneDay);
 
-  return `**${dayUntilNewYear} day before ${nextYear} ⏱**`;
+  return `**${dayUntilNewYear} day${dayUntilNewYear !== 1 ? 's' : ''} before ${nextYear} ⏱**`;
 }
 
 const findIdentifierIndex = (rows, identifier) =>
-  rows.findIndex((r) => Boolean(r.match(new RegExp(`<#${identifier}>`, 'i'))));
+  rows.findIndex((r) => r.includes(`<#${identifier}>`));
 
-const updateREADMEFile = (text) => fs.writeFile('./README.md', text);
+const updateREADMEFile = (text) => fs.writeFile(path.join(__dirname, 'README.md'), text);
 
-function main() {
-  const newREADME = generateNewREADME();
-  console.log(newREADME);
-  updateREADMEFile(newREADME);
+async function main() {
+  try {
+    const newREADME = await generateNewREADME();
+    console.log(newREADME);
+    await updateREADMEFile(newREADME);
+    console.log('README.md updated successfully');
+  } catch (error) {
+    console.error('Error updating README.md:', error);
+  }
 }
+
 main();
