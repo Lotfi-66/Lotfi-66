@@ -6,9 +6,6 @@ module.exports = `<h1 align="center">Hi 👋, I'm Lotfi</h1>
 🔭 I'm working on Symphony
 </p>
 <p align="center"> 
-📫 Reach me: lotfi.djeg@gmail.com
-</p>
-<p align="center"> 
 PortFolio[Demo]: https://lotfi-66.github.io/react-github-pages/
 </p>
 
