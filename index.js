@@ -31,9 +31,25 @@ function getDBNWSentence() {
 }
 
 function getLotbotSigning() {
-  const moodByDay = ['love', 'hate', 'wickedness', 'pleasure', 'wickedness', 'cruelty', 'horror'];
-  const mood = moodByDay[today.getDay()];
-  return `🤖 This README.md is updated with ${mood}, by Lotbot ❤️`;
+  const moodByDay = [
+    'love ❤️',
+    'hate 💔',
+    'wickedness 😈',
+    'pleasure 😊',
+    'cruelty 😱',
+    'horror 🎃',
+    'joy 😄',
+    'sadness 😢',
+    'excitement 🎉',
+    'fear 😨',
+    'anger 😠',
+    'surprise 😲',
+    'disgust 🤢',
+    'confusion 🤔',
+    'boredom 😑'
+  ];
+  const mood = moodByDay[Math.floor(Math.random() * moodByDay.length)];
+  return `🤖 This README.md is updated with ${mood}, by Lot-Bot 🤖`;
 }
 
 updateReadme().catch(console.error);
