@@ -78,8 +78,7 @@ PortFolio[Demo]: https://lotfi-66.github.io/react-github-pages/
 <p align="center">
 <a href="https://www.linkedin.com/in/lotfi-djeghbala-63160a266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lotfi djeghbala" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20440897/lotfi-djeghbala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lotfi djeghbala" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/lotfi_djeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lotfi djeghbala" height="30" width="40" /></a>
-<a href="https://www.linux.org/members/lotfi-djeghbala.185584/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="lotfi djeghbala linux profile" height="30" width="40" /></a><p align="center">
+<a href="https://www.hackerrank.com/lotfi_djeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lotfi_djeg" height="30" width="40" /></a><a href="https://www.linux.org/members/lotfi-djeghbala.185584/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="lotfi djeghbala linux profile" height="30" width="40" /></a><p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lotfi-66&theme=2077"></img>
 </p>
 
