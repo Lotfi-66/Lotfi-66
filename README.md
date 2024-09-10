@@ -99,6 +99,6 @@ Last update on Tue Sep 10 2024
 </p>
 
 <p align="center">
-🤖 This README.md is updated with wickedness, by Lotbot ❤️
+🤖 This README.md is updated with surprise 😲, by Lot-Bot 🤖
 </p>
 
