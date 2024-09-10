@@ -45,6 +45,7 @@ PortFolio[Demo]: https://lotfi-66.github.io/react-github-pages/
         <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+        <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"><img src="https://alpinejs.dev/alpine_long.svg" alt="alpinejs" width="40" height="40"/></a>
       </p>
     </td>
     <td align="center">
