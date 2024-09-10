@@ -6,9 +6,6 @@
 🔭 I'm working on Symphony
 </p>
 <p align="center"> 
-📫 Reach me: lotfi.djeg@gmail.com
-</p>
-<p align="center"> 
 PortFolio[Demo]: https://lotfi-66.github.io/react-github-pages/
 </p>
 
@@ -99,6 +96,6 @@ Last update on Tue Sep 10 2024
 </p>
 
 <p align="center">
-🤖 This README.md is updated with surprise 😲, by Lot-Bot 🤖
+🤖 This README.md is updated with confusion 🤔, by Lot-Bot 🤖
 </p>
 
