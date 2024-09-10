@@ -11,14 +11,31 @@
 <p align="center"> 
 PortFolio[Demo]: https://lotfi-66.github.io/react-github-pages/
 </p>
+
 <h3 align="center">Languages and Tools</h3>
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
       <h4>Programming Languages</h4>
+    </td>
+    <td align="center">
+      <h4>Frameworks and Libraries</h4>
+    </td>
+    <td align="center">
+      <h4>Databases</h4>
+    </td>
+    <td align="center">
+      <h4>DevOps and Tools</h4>
+    </td>
+    <td align="center">
+      <h4>Design</h4>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <p>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+        <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
         <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
@@ -26,7 +43,6 @@ PortFolio[Demo]: https://lotfi-66.github.io/react-github-pages/
       </p>
     </td>
     <td align="center">
-      <h4>Frameworks and Libraries</h4>
       <p>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
         <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a>
@@ -35,7 +51,6 @@ PortFolio[Demo]: https://lotfi-66.github.io/react-github-pages/
       </p>
     </td>
     <td align="center">
-      <h4>Databases</h4>
       <p>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
         <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
@@ -44,7 +59,6 @@ PortFolio[Demo]: https://lotfi-66.github.io/react-github-pages/
       </p>
     </td>
     <td align="center">
-      <h4>DevOps and Tools</h4>
       <p>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
@@ -54,7 +68,6 @@ PortFolio[Demo]: https://lotfi-66.github.io/react-github-pages/
       </p>
     </td>
     <td align="center">
-      <h4>Design</h4>
       <p>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
       </p>
