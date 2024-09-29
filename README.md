@@ -89,11 +89,11 @@ PortFolio[Demo]: https://lotfi-66.github.io/react-github-pages/
 </p>
 
 <p align="center">
-Last update on Sat Sep 28 2024
+Last update on Sun Sep 29 2024
 </p>
 
 <p align="center">
-95 days before new years
+94 days before new years
 </p>
 
 <p align="center">
