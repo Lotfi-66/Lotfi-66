@@ -89,14 +89,14 @@ PortFolio[Demo]: https://lotfi-66.github.io/react-github-pages/
 </p>
 
 <p align="center">
-Last update on Tue Oct 21 2025
+Last update on Wed Oct 22 2025
 </p>
 
 <p align="center">
-72 days before new years
+71 days before new years
 </p>
 
 <p align="center">
-🤖 This README.md is updated with cruelty 😱, by Lot-Bot 🤖
+🤖 This README.md is updated with pleasure 😊, by Lot-Bot 🤖
 </p>
 
