@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sku 07</h1>
+<h1 align="center">Hi 👋, I'm Lotfi</h1>
 <h3 align="center">A passionate FullStack from France</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lotfi-66&label=Profile%20views&color=0e75b6&style=flat" alt="lotfi-66"/> </p>
 <p align="center"> 
 🔭 I'm working on Symphony
+</p>
+<p align="center"> 
+PortFolio[Demo]: https://lotfi-66.github.io/react-github-pages/
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -94,6 +97,6 @@ Last update on Sun Dec 07 2025
 </p>
 
 <p align="center">
-🤖 This README.md is updated with fear 😨, by Lot-Bot 🤖
+🤖 This README.md is updated with sadness 😢, by Lot-Bot 🤖
 </p>
 
