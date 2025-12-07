@@ -4,9 +4,6 @@
 <p align="center">
 🔭 I'm working on Symphony
 </p>
-<p align="center"> 
-PortFolio[Demo]: https://lotfi-66.github.io/react-github-pages/
-</p>
 
 <h3 align="center">Languages and Tools</h3>
 
