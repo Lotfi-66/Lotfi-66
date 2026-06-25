@@ -85,14 +85,14 @@
 </p>
 
 <p align="center">
-Last update on Wed Jun 24 2026
+Last update on Thu Jun 25 2026
 </p>
 
 <p align="center">
-191 days before new years
+190 days before new years
 </p>
 
 <p align="center">
-🤖 This README.md is updated with horror 🎃, by Lot-Bot 🤖
+🤖 This README.md is updated with sadness 😢, by Lot-Bot 🤖
 </p>
 
