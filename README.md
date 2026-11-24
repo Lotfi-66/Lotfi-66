@@ -85,11 +85,11 @@
 </p>
 
 <p align="center">
-Last update on Mon Nov 23 2026
+Last update on Tue Nov 24 2026
 </p>
 
 <p align="center">
-39 days before new years
+38 days before new years
 </p>
 
 <p align="center">
